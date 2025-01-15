@@ -1,0 +1,22 @@
+.heading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(206, 55, 148);
+    color: rgb(239, 234, 234);
+    padding: 1rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    /* border-radius: 1rem; */
+}
+
+
+.logout{
+    float: right;
+    text-decoration: none;
+    border: none;
+    outline: none;
+    font-size: 1.2rem;
+    background: none;
+    color: rgb(73, 211, 73);
+    font-weight: bolder;
+}

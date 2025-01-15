@@ -1,0 +1,24 @@
+.heading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(206, 55, 148);
+    color: white;
+    padding: 1rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    /* border-radius: 1rem; */
+}
+.custom-table {
+    background-color: #e25bb3; /* Light background */
+    text-align: center;        /* Center align text */
+  }
+  
+  .custom-table th {
+    background-color: #c3d619; /* Blue header */
+    color: rgb(24, 24, 24);
+  }
+  
+  .custom-table tr:hover {
+    background-color: #1b1111; /* Hover effect */
+  }
+  
